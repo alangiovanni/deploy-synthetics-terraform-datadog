@@ -1,5 +1,5 @@
-# IaC - Infraestructure as Code
-  Deploy de um ambiente de monitoria na AWS com Terraform
+# MaC - Monitoring as Code
+  Deploy de um Synthetics API Test no Datadog com Terraform 🚀
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
