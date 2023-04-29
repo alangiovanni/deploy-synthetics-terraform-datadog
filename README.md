@@ -1,5 +1,5 @@
-# MaC - Monitoring as Code
-	Deploy de um Synthetics API Test no Datadog com Terraform 🚀
+# IaC - Infraestructure as Code
+  Deploy de um ambiente de monitoria na AWS com Terraform
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
@@ -26,7 +26,7 @@ Provisionar monitoramento como código no Datadog por meio de um deploy de um Sy
 ### 🛠 Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com) e [Terraform - v1.2.9](https://www.terraform.io).
+[Git](https://git-scm.com) e [Terraform - v1.3.7](https://www.terraform.io).
 
 No Datadog, obtenha uma "API Key" e uma "APP Key" de um usuário com role de admin. Link da Documentação [Datadog - API and Application Keys](https://docs.datadoghq.com/account_management/api-app-keys/).
 
